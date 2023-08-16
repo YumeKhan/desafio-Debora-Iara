@@ -1,5 +1,3 @@
-# desafio-Debora-Iara
-
 # DESAFIO CAIXA DA LANCHONETE
 
 OBS: Oque foi relizado.
